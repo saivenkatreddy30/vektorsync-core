@@ -1,11 +1,5 @@
 \# VektorSync — Offline Sync Conflict Engine
 
-
-
-A backend sync engine built for the GDG recruitment task: \*\*"Offline Sync Conflict – When Devices Disagree"\*\* (Backend Track).
-
-
-
 \*\*Author:\*\* Sai Venkata Reddy  
 
 \*\*Stack:\*\* Python 3.14, FastAPI, SQLite (SQLAlchemy), scikit-learn, PyTest
